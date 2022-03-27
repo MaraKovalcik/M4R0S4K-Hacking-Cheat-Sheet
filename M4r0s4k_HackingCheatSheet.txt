@@ -1,0 +1,25 @@
+####
+## Download M4R0S4K Hacking Cheat Sheet
+####
+
+## General Hacking Tool
+git clone https://github.com/MaraKovalcik/hackingtool
+
+## Windows and Linux privilege escalation
+git clone https://github.com/MaraKovalcik/PrivEscCheatSheet
+
+## Windows and Active Directory
+sudo apt update -y && sudo apt install python3-impacket bloodhound crackmapexec
+git clone https://github.com/MaraKovalcik/Active-Directory-Pentesting
+git clone https://github.com/MaraKovalcik/Active-Directory-Exploitation-Cheat-Sheet
+git clone https://github.com/MaraKovalcik/evil-winrm
+git clone https://github.com/MaraKovalcik/Responder
+git clone https://github.com/MaraKovalcik/DomainPasswordSpray
+git clone https://github.com/MaraKovalcik/kerbrute
+
+## CVEs
+git clone https://github.com/MaraKovalcik/cve
+git clone https://github.com/MaraKovalcik/CVE-2022-21882
+git clone https://github.com/MaraKovalcik/pwncat_pwnkit
+git clone https://github.com/MaraKovalcik/CVE-2021-4034
+git clone https://github.com/MaraKovalcik/PwnKit
