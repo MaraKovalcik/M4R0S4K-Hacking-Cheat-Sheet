@@ -1,0 +1,8 @@
+python3 -c 'import pty; pty.spawn("/bin/bash")'
+python -c 'import pty; pty.spawn("/bin/bash")'
+export PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/usr/games:/tmp
+export TERm=xterm-265color
+alias ll='clear ; ls -lsaht --color=auto'
+CTRL + Z [Background Process]
+stty raw -echo ; fg ; reset
+stty columns 200 rows 200
