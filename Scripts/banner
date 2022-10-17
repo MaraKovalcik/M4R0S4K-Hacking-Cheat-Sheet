@@ -1,0 +1,18 @@
+This machine can access other machines you deploy on TryHackMe.
+
+Please keep in mind the following:
+1. Pentesting any target that is not deployed by you on TryHackMe is prohibited.
+2. You are solely responsible for your actions.
+3. This machine expires. Check TryHackMe to ensure you still have time left.
+4. Once this machine is terminated, all data will be lost.
+
+View the changes made to the AttackBox: https://help.tryhackme.com/106142-my-machine/tryhackme-attack-machine#changelog
+
+Usage Instructions:
+
+1. Tools are located in /root/Desktop/Tools & /opt/
+2. Webshells are located in /usr/share/webshells
+3. Wordlists are located in /usr/share/wordlists
+4. To use Empire & Starkiller, read the following file: /root/Instructions/empire-starkiller.txt
+
+Do you think something's missing? Let us know! support@tryhackme.com
